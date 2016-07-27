@@ -2,43 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://wrikmallik.com/index.html</loc>
-    <lastmod>2016-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wrikmallik.com/truss-braced-wing-aeroelasticity-research.html</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2016-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://wrikmallik.com/reduced-order-unsteady-transonic-analysis.html</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2016-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wrikmallik.com/images/aoa1_phase90_mp8_tby8p.svg</loc>
-    <lastmod>2016-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wrikmallik.com/assets/cv_wrik_mallik.pdf</loc>
-    <lastmod>2016-07-19</lastmod>
+    <loc>http://wrikmallik.com/truss-braced-wing-aeroelasticity-research.html</loc>
+    <lastmod>2016-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://wrikmallik.com/images/aoa0_phase0_mp8_tby8p.svg</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2016-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wrikmallik.com/images/aoa0_phase360_mp8_tby8p.svg</loc>
-    <lastmod>2016-07-23</lastmod>
+    <loc>http://wrikmallik.com/images/aoa0_phase180_mp8_tby8p.svg</loc>
+    <lastmod>2016-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -49,14 +37,44 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wrikmallik.com/images/aoa0_phase180_mp8_tby8p.svg</loc>
-    <lastmod>2016-07-23</lastmod>
+    <loc>http://wrikmallik.com/images/aoa1_phase90_mp8_tby8p.svg</loc>
+    <lastmod>2016-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wrikmallik.com/images/mesh_mag_1.svg</loc>
+    <lastmod>2016-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wrikmallik.com/images/mesh_mag_4.svg</loc>
+    <lastmod>2016-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wrikmallik.com/images/mesh_mag_40.svg</loc>
+    <lastmod>2016-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://wrikmallik.com/images/aoa-1_phase270_mp8_tby8p.svg</loc>
-    <lastmod>2016-07-23</lastmod>
+    <lastmod>2016-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wrikmallik.com/assets/cv_wrik_mallik.pdf</loc>
+    <lastmod>2016-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wrikmallik.com/images/aoa0_phase360_mp8_tby8p.svg</loc>
+    <lastmod>2016-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

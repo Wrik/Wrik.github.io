@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="wrikmallik.com" resolutions="1x" timestamp="1469253491583">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="wrikmallik.com" resolutions="1x" timestamp="1469592272468">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="reduced-order-unsteady-transonic-analysis.css" crc="3930517468" ref="reduced-order-unsteady-transonic-analysis"/>
-    <file name="nomq_reduced-order-unsteady-transonic-analysis.css" crc="315742206" ref="reduced-order-unsteady-transonic-analysis"/>
-    <file name="truss-braced-wing-aeroelasticity-research.css" crc="320575417" ref="truss-braced-wing-aeroelasticity-research"/>
-    <file name="nomq_truss-braced-wing-aeroelasticity-research.css" crc="69746150" ref="truss-braced-wing-aeroelasticity-research"/>
-    <file name="index.css" crc="280163955" ref="index"/>
-    <file name="nomq_index.css" crc="194767864" ref="index"/>
+    <file name="reduced-order-unsteady-transonic-analysis.css" crc="4234598698" ref="reduced-order-unsteady-transonic-analysis"/>
+    <file name="nomq_reduced-order-unsteady-transonic-analysis.css" crc="3822479651" ref="reduced-order-unsteady-transonic-analysis"/>
+    <file name="truss-braced-wing-aeroelasticity-research.css" crc="283836306" ref="truss-braced-wing-aeroelasticity-research"/>
+    <file name="nomq_truss-braced-wing-aeroelasticity-research.css" crc="4155945091" ref="truss-braced-wing-aeroelasticity-research"/>
+    <file name="index.css" crc="4062567744" ref="index"/>
+    <file name="nomq_index.css" crc="4060491368" ref="index"/>
     <file name="iefonts_reduced-order-unsteady-transonic-analysis.css" crc="3824530138" ref="reduced-order-unsteady-transonic-analysis"/>
     <file name="iefonts_truss-braced-wing-aeroelasticity-research.css" crc="3824530138" ref="truss-braced-wing-aeroelasticity-research"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
@@ -40,7 +40,7 @@
     <file name="email-icon.png" crc="4023987939" ref="index"/>
     <file name="bacj_unsteady_response_combined.svg" crc="3921375852" ref="reduced-order-unsteady-transonic-analysis"/>
     <file name="aoa0_phase0_mp8_tby8p.svg" crc="3969687606" seo="true" ref="reduced-order-unsteady-transonic-analysis"/>
-    <file name="blank.gif" crc="4208392903" ref="reduced-order-unsteady-transonic-analysis:truss-braced-wing-aeroelasticity-research"/>
+    <file name="blank.gif" crc="4208392903" ref="reduced-order-unsteady-transonic-analysis"/>
     <file name="aoa0_phase0_mp8_tby8p_poster_.png" crc="3941137018" ref="reduced-order-unsteady-transonic-analysis"/>
     <file name="aoa1_phase90_mp8_tby8p.svg" crc="3890180332" seo="true" ref="reduced-order-unsteady-transonic-analysis"/>
     <file name="aoa1_phase90_mp8_tby8p_poster_.png" crc="26568215" ref="reduced-order-unsteady-transonic-analysis"/>
@@ -58,8 +58,14 @@
     <file name="sugar_volt_semispan_2014_14-l-00010lh_poster_u6684.png" crc="105048780" ref="truss-braced-wing-aeroelasticity-research"/>
     <file name="nlin_flutmodes_poster_u6724.png" crc="4123454436" ref="truss-braced-wing-aeroelasticity-research"/>
     <file name="vgrwt_concept_poster_u6736.png" crc="440206727" ref="truss-braced-wing-aeroelasticity-research"/>
+    <file name="mesh_mag_1.svg" crc="3765323523" seo="true" ref="reduced-order-unsteady-transonic-analysis"/>
+    <file name="mesh_mag_1_poster_.png" crc="529084635" ref="reduced-order-unsteady-transonic-analysis"/>
+    <file name="mesh_mag_4.svg" crc="20878384" seo="true" ref="reduced-order-unsteady-transonic-analysis"/>
+    <file name="mesh_mag_4_poster_.png" crc="4050541400" ref="reduced-order-unsteady-transonic-analysis"/>
+    <file name="mesh_mag_40.svg" crc="123024353" seo="true" ref="reduced-order-unsteady-transonic-analysis"/>
+    <file name="mesh_mag_40_poster_.png" crc="158585292" ref="reduced-order-unsteady-transonic-analysis"/>
   </folder>
-  <file name="index.html" crc="408237031" seo="true" mt="1469253205201" redirect="true"/>
-  <file name="reduced-order-unsteady-transonic-analysis.html" crc="308100737" seo="true" mt="1469253307459" redirect="true"/>
-  <file name="truss-braced-wing-aeroelasticity-research.html" crc="4200574886" seo="true" mt="1469253438396" redirect="true"/>
+  <file name="index.html" crc="177239047" seo="true" mt="1469592020154" redirect="true"/>
+  <file name="reduced-order-unsteady-transonic-analysis.html" crc="3883742638" seo="true" mt="1469592213749" redirect="true"/>
+  <file name="truss-braced-wing-aeroelasticity-research.html" crc="494591757" seo="true" mt="1469579696784" redirect="true"/>
 </manifest>
