@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="wrikmallik.com" resolutions="1x" timestamp="1469592272468">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="wrikmallik.com" resolutions="1x" timestamp="1470618196060">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="reduced-order-unsteady-transonic-analysis.css" crc="4234598698" ref="reduced-order-unsteady-transonic-analysis"/>
     <file name="nomq_reduced-order-unsteady-transonic-analysis.css" crc="3822479651" ref="reduced-order-unsteady-transonic-analysis"/>
-    <file name="truss-braced-wing-aeroelasticity-research.css" crc="283836306" ref="truss-braced-wing-aeroelasticity-research"/>
+    <file name="truss-braced-wing-aeroelasticity-research.css" crc="4286182233" ref="truss-braced-wing-aeroelasticity-research"/>
     <file name="nomq_truss-braced-wing-aeroelasticity-research.css" crc="4155945091" ref="truss-braced-wing-aeroelasticity-research"/>
     <file name="index.css" crc="4062567744" ref="index"/>
     <file name="nomq_index.css" crc="4060491368" ref="index"/>
@@ -24,7 +24,7 @@
     <file name="jquery.watch.js" crc="117772946" ref="index:reduced-order-unsteady-transonic-analysis:truss-braced-wing-aeroelasticity-research"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:reduced-order-unsteady-transonic-analysis:truss-braced-wing-aeroelasticity-research"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:reduced-order-unsteady-transonic-analysis"/>
     <file name="jquery.museresponsive.js" crc="439107114" ref="index:reduced-order-unsteady-transonic-analysis:truss-braced-wing-aeroelasticity-research"/>
     <file name="require.js" crc="228336483" ref="index:reduced-order-unsteady-transonic-analysis:truss-braced-wing-aeroelasticity-research"/>
     <file name="webpro.js" crc="4078243563" ref="reduced-order-unsteady-transonic-analysis"/>
@@ -67,5 +67,5 @@
   </folder>
   <file name="index.html" crc="177239047" seo="true" mt="1469592020154" redirect="true"/>
   <file name="reduced-order-unsteady-transonic-analysis.html" crc="3883742638" seo="true" mt="1469592213749" redirect="true"/>
-  <file name="truss-braced-wing-aeroelasticity-research.html" crc="494591757" seo="true" mt="1469579696784" redirect="true"/>
+  <file name="truss-braced-wing-aeroelasticity-research.html" crc="4201212229" seo="true" mt="1470618085029" redirect="true"/>
 </manifest>
